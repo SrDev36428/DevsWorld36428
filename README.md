@@ -26,6 +26,7 @@
   Bootstrap<br>
   &nbsp;&nbsp;&nbsp;&nbsp;For backend: Express/Node.js, Laravel, Django<br>
   • Databases: MysQL, postgresQL, MongoDB, sqllite3<br>
+  • AI : AI, ML, openAI, Langchain
   <br>
 
   Now I specialize in web development & AI prompt(LLM), and I'm researching Blockchain technologies.<br>So, I'm gonna use it.
