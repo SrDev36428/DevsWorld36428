@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png"/>
+
 <h3>Greeting 👍</h3>
   I am an enthusiastic web developer with a rich experience of over 6 years in website & Application
   development.
@@ -131,7 +133,7 @@
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png"/>
+
 
 
   ### :fire: My Stats :
