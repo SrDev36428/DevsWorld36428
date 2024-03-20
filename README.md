@@ -28,7 +28,7 @@
   • Databases: MysQL, postgresQL, MongoDB, sqllite3<br>
   <br>
 
-  Now I specialize in web development, and I'm researching Blockchain technologies.<br>So, I'm gonna use it.
+  Now I specialize in web development & AI prompt(LLM), and I'm researching Blockchain technologies.<br>So, I'm gonna use it.
   Please, get in touch me.<br>
   Thanks!<br><br>
 
