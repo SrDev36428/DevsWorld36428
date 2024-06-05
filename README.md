@@ -28,6 +28,8 @@
   • Databases: MysQL, postgresQL, MongoDB, sqllite3<br>
   • AI : AI, ML, openAI, Langchain
   <br>
+  • 👍In the blockchain domain, I have hands-on experience with Blockchain, 📌NFT,  📌Smart Contract, 
+    📌DEX,  📌DeFi, 📌Solidity, 📌Web3, 📌Truffle, 📌Rust, 📌Solana, and 📌Tokenomics.<br>
 
   Now I specialize in web development & AI prompt(LLM), and I'm researching Blockchain technologies.<br>So, I'm gonna use it.
   Please, get in touch me.<br>
